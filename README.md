@@ -1,4 +1,4 @@
-# my-fyp-project
+# Smart-Housing-Recommendation-System-For-UiTM-Students-Using-Content-Based-Filtering
 # [Smart Housing Recommendation System For UiTM Students Using Content Based Filtering]
 
 -This project streamlines the tedious off-campus rental search for UiTM students by delivering personalized housing recommendations based on their individual budget, location preferences, and required amenities through content-based filtering.
