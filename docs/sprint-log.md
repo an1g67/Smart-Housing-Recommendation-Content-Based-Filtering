@@ -13,8 +13,8 @@
 | #3 | | Issue 3 |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 1: [I want to go Mekkah to make haji but doesnt have enough money]
+- Standup 2: [I want to help students to make them easier rent house outside Uitm database research on the project]
 
 ### Sprint review
 [What did you finish? What did you show a classmate?]
