@@ -17,9 +17,9 @@
 - Standup 2: [I want to help students to make them easier rent house outside Uitm database research on the project]
 
 ### Sprint review
-[What did you finish? What did you show a classmate?]
+I completed all three tasks (acceptance criteria, requirements numbering, and README structure) and merged their pull requests into main.
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: Creating branches, linking issues to pull requests with "Closes #", and merging them cleanly.
+- What was difficult: Making sure issue titles and branch names matched the exact assignment instructions.
+- What I will change next time: double-check file names and terminal syntax before executing commands to avoid typos.
