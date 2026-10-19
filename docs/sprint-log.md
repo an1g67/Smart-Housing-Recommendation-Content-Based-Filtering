@@ -3,14 +3,14 @@
 ## Sprint 1 (Week 3 lab)
 
 ### Sprint goal
-[One sentence: what do you want to finish by the end of this lab?]
+[By the end of this lab my user stories have acceptance criteria and my README shows the project structure.]
 
 ### Sprint backlog
 | Issue | Task | Status |
 |-------|------|--------|
-| #1 | | To do |
-| #2 | | To do |
-| #3 | | To do |
+| #1 | | Issue 1 |
+| #2 | | Issue 2 |
+| #3 | | Issue 3 |
 
 ### Daily standup notes
 - Standup 1: [what I will do now / what could block me]
